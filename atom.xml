@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Petingo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://blog.petingo.de/"/>
+  <updated>2021-11-13T09:20:38.746Z</updated>
+  <id>https://blog.petingo.de/</id>
+  
+  <author>
+    <name>Petingo</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>關於可能性</title>
+    <link href="https://blog.petingo.de/about-possibility/"/>
+    <id>https://blog.petingo.de/about-possibility/</id>
+    <published>2020-05-08T07:32:07.000Z</published>
+    <updated>2021-11-13T09:20:38.746Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近做了一個蠻重大的決定：把建築輔系放棄了。</p><p>原因也沒多複雜，最主要的原因是找到 Computer Vision 方面的研究助理工作，可以填補準備出國的這半年；再加上我覺得我對建築的喜愛其實比較像是對於 A 片的那種感覺（就像是看到漂亮的女優會很興奮，會想把好看好用的片子存在播放清單裡面那樣，但不會把拍 A 片當成一個的具體的目標或夢想，但如果有機會的話也不會太排斥這樣），我喜歡建築、喜歡畫畫，也一直想設計自己的未來的房子，但對於從事建築相關的行業反倒沒有這麼大的熱忱。或許還是錢吧？在聽過那麼多人抱怨建築系的低薪、高工時以後，這種「要嘛功成名就、要嘛天天吃大便」，完全令人摸不著頭緒的黑盒子著實令人卻步。而且我自知自己不是一個擁有天馬星空想像力的創造者；也不是一個可以口若懸河地把自己的作品吹得一塌糊塗的演說家（尤其是在上完一個學期的建築設計以後），也許有機會成為一個中規中矩的勞動階級，但我可能終其一生都無法企及我對其嚮往的最終形態。</p><a id="more"></a><p>相較之下，寫 code 至今還是能帶給我很多快樂，我也很樂意把我的餘生用在這裡。或許是認清到自己的不足，才能對此如此豁達吧？我嚮往成為時代的革命者，但同時也樂於只當一顆小齒輪，為這個世界的向前提供一點點支撐或動力。「希望我的存在可以讓世界變得更美好一些些」這句話依舊還是我的座右銘。</p><p>不過也不是一直朝著同個方向就是了。從很久以前想著大學畢業就要去工作賺錢、到現在思考著 phD 的可能性，如今我還是不確定該怎麼向前。我們做決定時往往都只是靠著經驗來算計未來；但如果只能用趨近於零的過往去想像未來的可能性，大概與擲骰子無異。只祈求中研院的半年可以把那足以填滿黑洞的未來想像描出一個比較清晰的輪廓，現在姑且就走一步算一步吧。</p><p>至於結合資工的專業與建築的興趣？現在比較常見的應該是數位建築的部分吧？但這個領域始終激不起我的興趣，我喜歡建築純粹的美、傳統的美、藝術的美，但總感覺現在大部分的數位建築和我心中對建築美的定義有著蠻大的差距。原本想說暫且算是放棄了吧！但想到這裡又覺得或許不完全是這麼一回事，也許聖母院的重建會需要數位建築的輔助？如果把數位建築應用在古蹟修復的部分或許還蠻有趣的？不知道，不過暫且還是把他們放在各自的位子吧。（但我還沒有放棄成為一個建築模型 youtuber 的夢想，也許回台灣就開始嘗試？）（希望可以說到做到）</p><p>記得上個月看完排球少年的時候曾經想過，如果高中時有看那些熱血社團的動畫（上低音號、排球少年、乒乓這類的），當時的我會不會也因此把奧林匹亞當成唯一的目標，不計後果的認真燃燒一次呢？現在想一想，當時去全國賽的時候大概是處在達克效應的愚昧山丘吧，如果填志願時的知識量剛好成長到絕望山谷，我會不會反而走向完全不同的地方呢？</p><p>Whatever，我們都是過去的選擇所成就的，努力成為最好版本的自己吧。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近做了一個蠻重大的決定：把建築輔系放棄了。&lt;/p&gt;
+&lt;p&gt;原因也沒多複雜，最主要的原因是找到 Computer Vision 方面的研究助理工作，可以填補準備出國的這半年；再加上我覺得我對建築的喜愛其實比較像是對於 A 片的那種感覺（就像是看到漂亮的女優會很興奮，會想把好看好用的片子存在播放清單裡面那樣，但不會把拍 A 片當成一個的具體的目標或夢想，但如果有機會的話也不會太排斥這樣），我喜歡建築、喜歡畫畫，也一直想設計自己的未來的房子，但對於從事建築相關的行業反倒沒有這麼大的熱忱。或許還是錢吧？在聽過那麼多人抱怨建築系的低薪、高工時以後，這種「要嘛功成名就、要嘛天天吃大便」，完全令人摸不著頭緒的黑盒子著實令人卻步。而且我自知自己不是一個擁有天馬星空想像力的創造者；也不是一個可以口若懸河地把自己的作品吹得一塌糊塗的演說家（尤其是在上完一個學期的建築設計以後），也許有機會成為一個中規中矩的勞動階級，但我可能終其一生都無法企及我對其嚮往的最終形態。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="一些想法" scheme="https://blog.petingo.de/tags/%E4%B8%80%E4%BA%9B%E6%83%B3%E6%B3%95/"/>
+    
+      <category term="資工" scheme="https://blog.petingo.de/tags/%E8%B3%87%E5%B7%A5/"/>
+    
+      <category term="建築" scheme="https://blog.petingo.de/tags/%E5%BB%BA%E7%AF%89/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>去了中國一個月</title>
+    <link href="https://blog.petingo.de/One-Month-In-China/"/>
+    <id>https://blog.petingo.de/One-Month-In-China/</id>
+    <published>2018-09-09T17:08:30.000Z</published>
+    <updated>2021-11-13T10:15:52.746Z</updated>
+    
+    <content type="html"><![CDATA[<p>其實原本是打算每天晚上睡覺前寫點什麼，紀錄一下每天看到的、想到的、感受到的人事物。<br><del>結果…連第一天的日記都只打了草稿，只好來寫月記了。</del><br>結果寫完 Day 1 之後就完全忘記這回事了，現在連回憶錄都可能都寫不出來了…（2020/4/1，布拉格）</p><a id="more"></a><h2 id="所以你覺得支那怎麼樣"><a class="markdownIt-Anchor" href="#所以你覺得支那怎麼樣"></a> 所以你覺得支那怎麼樣？</h2><p>回來之後最常被問的大概就是這個問題了，用四個字概括就是「垃圾地方」。</p><p>食物可能是唯一會讓我留戀的。四季民福的烤鴨和鬆到不能再鬆的炒飯、學校超市裡一斤 18 羊的現包水餃、肉夾饃、胡蘿蔔汁、公主墳超市裡一串5羊的肉串、中關村食寶街的豬腦和煎粉之類的迷樣小吃、散步街的炒羊肚、故宮前面一大條2羊的超甜哈密瓜、各式各樣便宜又好吃的水果、牛奶冰淇淋，大概就這些吧！</p><p>有好吃到唇齒留香的食物當然就會有雷到難以忘懷的。記得第一天剛到學校，臨時在學校找了一間小餐館，點了一碗 9 羊的涼粉。確切的味道我已經不記得了，只記得是一股臭酸的餿水味，我勉強吃掉半碗後還是選擇放棄，或許那真的是從廚餘桶湊出來的食物也說不定。之後的那幾天我再也沒有點過涼粉。另一個是辣到爆炸的牛雜麵，所謂的爆炸是真的爆炸，吃完那碗牛雜麵後，整整一個禮拜都在胃痛和拉肚子。不過這應該只是我耐受力不夠而已吧！如果是四川人來吃搞不好還會覺得不夠呢！</p><p>不過說到吃就不得不提「錢」這回事，不管是在北京還是上海，既使是觀光景點，物價也都還在可以接受的範圍內，平均的物價大概是台北 ±50% 吧，如果用大麥克經濟的角度來看，北京的麥當勞還比台北貴呢！但是在北京或上海晃了那麼久、看了那麼多徵才廣告，打工時薪最高也只有 22 人民幣，是一間位在食寶街（京中關村軟體園區附近，類似百貨公司的美食街）裡的 pizza hot 貼出來的，其他地方大概都是 14~16 元左右。</p><h2 id="除了食物以外呢"><a class="markdownIt-Anchor" href="#除了食物以外呢"></a> 除了食物以外呢？</h2><p>每天打開窗戶看到的就是無盡的霧霾，藍天什麼的似乎是一件遙不可及的夢想，幾乎只能用看得見太陽和看不見太陽來區分晴天與陰天，走在路上大概 3~5 公尺外的景物就會蒙上一層白白的面紗。原本以為北京的緯度可以減輕一點夏季的酷熱，但不知道是不是受霧霾的溫室效應影響，悶熱與黏膩依舊，甚至還比台灣還要難受。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;其實原本是打算每天晚上睡覺前寫點什麼，紀錄一下每天看到的、想到的、感受到的人事物。&lt;br&gt;
+&lt;del&gt;結果…連第一天的日記都只打了草稿，只好來寫月記了。&lt;/del&gt;&lt;br&gt;
+結果寫完 Day 1 之後就完全忘記這回事了，現在連回憶錄都可能都寫不出來了…（2020/4/1，布拉格）&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>北航 Day 1</title>
+    <link href="https://blog.petingo.de/Beihang-Day-1/"/>
+    <id>https://blog.petingo.de/Beihang-Day-1/</id>
+    <published>2018-07-07T16:35:30.000Z</published>
+    <updated>2021-11-13T09:20:38.221Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/Beihang-Day-1/DSCF4585-min.JPG" alt="飛機"><br>第一次出國，第一次一個人出國。<br>我現在能安心的坐在床上寫這些廢話也是歷經了一番神奇的旅程。</p><a id="more"></a><p>原本預計今天要把棉被抬到新家再出門，結果不小心多睡了半小時、又被一坨爆幹貴的早午餐拖了一些時間，計劃沒趕上變化，匆匆出門、上捷運、轉機捷，踏上列車時已經 12:30。</p><p>雨點開始落在奔馳於高架橋上的捷運，辦好了登機，查好等等去機場該做什麼後，列車便駛進機場二航下。</p><p>行李托運、出海關意外的快速，我一直以為會是非常繁瑣而謹慎的過程，甚至不禁思索，要偷運毒品出國也太簡單了吧？</p><hr><p>到了支那，身為一個堂堂正正的中國人，回歸祖國當然是走國人通道<br><img src="/Beihang-Day-1/DSC_1567-min.JPG" alt="歡迎回家"></p><p>才剛出機場，一股酸味撲鼻而來，原來所謂祖國的汕液就是這個味道…</p><p>載我們去北航的，是一輛中型巴士，「中國有中國的玩法」馬上體現——巴士沒有置物架，大家的行李就這樣疊在走道上。<br><img src="/Beihang-Day-1/DSC_1570-min.JPG" alt="巴士"></p><p>Beihang International Summor School 算是以國際學生為主的計畫，台港澳雖然有一定人數，但還是老外居多，也因為這樣，我們住的是北航在校園內經營的「飯店」，雖然以飯店來說有許多不足之處，但跟宿舍比已經是天差地遠了。</p><p>總之，平安抵達北航！</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/Beihang-Day-1/DSCF4585-min.JPG&quot; alt=&quot;飛機&quot;&gt;&lt;br&gt;
+第一次出國，第一次一個人出國。&lt;br&gt;
+我現在能安心的坐在床上寫這些廢話也是歷經了一番神奇的旅程。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="關於支那" scheme="https://blog.petingo.de/tags/%E9%97%9C%E6%96%BC%E6%94%AF%E9%82%A3/"/>
+    
+      <category term="北航" scheme="https://blog.petingo.de/tags/%E5%8C%97%E8%88%AA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>四疊半神話大系</title>
+    <link href="https://blog.petingo.de/The-Tatami-Galaxy/"/>
+    <id>https://blog.petingo.de/The-Tatami-Galaxy/</id>
+    <published>2018-06-18T15:57:07.000Z</published>
+    <updated>2021-11-13T09:20:38.295Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/The-Tatami-Galaxy/title-min.png" alt="標題"></p><p>看完最大的心得大概是「不要宅在家裡，多出去認識一些人」這樣吧。<br>蠻幸運的在大學還沒結束前看了這部作品，也因此思考了很多人生。</p><a id="more"></a><h2 id="誰該為此負責"><a class="markdownIt-Anchor" href="#誰該為此負責"></a> 誰該為此負責</h2><p>不知道在萬隆貧民窟的時候有幾個夜深人靜的晚上，我們互相調侃對方新認識的女性朋友、互相檢討為什麼交不到女朋友，並同時抱怨沒有異性的生活圈、商討著早已講到爛掉的拓展方法。其實我們也都知道該試著加個社團、參加活動，但一想到要面對陌生人、想到之前的失敗經驗，就又會卻步。我一直覺得我處在一個狀態：知道問題在哪、大概知道解決方向、有點想嘗試、但總是果斷放棄。</p><p>但再想一想，誰不是呢？人終究是群體的動物，與人相處終究是一項重要的技能；我自認是個很好相處的人，但面對不熟悉的人、面對不知該開口說什麼的對象，總是有一層深深的恐懼，彷彿我是個走在鋼索上的表演者，路的一端是那位陌生人，而鋼索底下聚集著準備看好戲的人潮，等著我摔下去；所以我選擇待在原地，只要不跨出第一步，就不用面對進退兩難的窘境。</p><p>要是我們是三體人該有多好，直接就把意識攤在陽光底下，也不用怕開口了。上了大學以後最無法適應的大概就是這點了。</p><p>講到這裡又想到，高中男校女校真的是一種反人類的設計，把男女區隔開來的目的到底是什麼？套句朋友的話：「如果是因為怕談戀愛會影響成績，會談的還是會談，肥宅每天看動畫也是浪費一堆時間。」如果是怕不小心幹下去生小孩的那更好，台灣生育率那麼低順便可以救一救（沒有啦我相信大家都會乖乖戴套）。為了學習如何考試，反倒失去了許多學習和異性相處的機會，尤其是對我這種木訥又不會懂的怎麼人相處的人類，如果要想找個理由，這大概會是最好的怪罪。</p><h2 id="誰該為此負責-是我自己吧"><a class="markdownIt-Anchor" href="#誰該為此負責-是我自己吧"></a> <img src="/The-Tatami-Galaxy/%E8%AA%B0%E8%A9%B2%E7%82%BA%E6%AD%A4%E8%B2%A0%E8%B2%AC-min.png" alt="誰該為此負責"> <img src="/The-Tatami-Galaxy/%E6%98%AF%E6%88%91%E8%87%AA%E5%B7%B1%E5%90%A7-min.png" alt="是我自己吧"></h2><h2 id="請抓住就在你眼前的良機"><a class="markdownIt-Anchor" href="#請抓住就在你眼前的良機"></a> 請抓住就在你眼前的良機</h2><p>太宰治在⟪人間失格⟫裡說過：「每個人講話的方式，都像這樣拐彎抹角、模稜兩可，彷彿為了規避責任而故意說的微妙而複雜…隱含在話中無謂的高度警戒，以及數不清的推拉策略，我從來都沒弄懂過。」</p><p><img src="/The-Tatami-Galaxy/%E4%B8%8D%E8%A8%8E%E5%8E%AD-min.png" alt="不討厭"></p><p>日本人最讓人敬畏三分的，大概就是這點吧。</p><p>我一直以來都認為，無論語言或是文字，其中心的本質就是要讓他人理解自己的所思所想；某方面來說我還蠻同意三體人的想法：人類必須透過語言才能傳遞想法是演化上的瑕疵。確實，透過語言有時無法完整的表達內心的想法，但同時也因為有語言、有心口不一的謊言，人類才得以生為人類，我們的生活與生命，也在其滋潤下變得不一樣。</p><p>或許這就是わたし一直與明石錯過的原因吧。<br>不討厭與喜歡、良機與良緣，猜不著的話中話就這樣一次次的在平行時空中錯開一段段戀情。</p><p><img src="/The-Tatami-Galaxy/%E8%AB%8B%E6%8A%93%E4%BD%8F%E5%B0%B1%E5%9C%A8%E4%BD%A0%E7%9C%BC%E5%89%8D%E7%9A%84%E8%89%AF%E6%A9%9F-min.png" alt="請抓住就在你眼前的良機"> <img src="/The-Tatami-Galaxy/%E4%B8%8D%E8%A6%81%E9%8C%AF%E9%81%8E%E8%89%AF%E6%A9%9F-min.png" alt="不要錯過良機"></p><p>不過，緣分又是什麼呢？是姜太公釣魚的願者上鈎？是佛家超越現代科學的姻緣紅線？</p><p>或許整個宇宙只是四次元生物創造的小小實驗室，人類只是其中的幾行程式碼、我們只是龐大演算法中的一個小小變數，我們的未來早已在宇宙誕生之時便已確立；但我還是寧願相信生命的走向操之在己，所謂「緣分」則是在人際關係中周旋以後，掌握在他人手上的變因。</p><p><img src="/The-Tatami-Galaxy/%E5%91%BD%E9%81%8B%E7%9A%84%E9%BB%91%E7%B7%9A-min.png" alt="命運的黑線"></p><p><strong>溪裡釣不到黑鮪魚，四疊半宿舍裡也不會有明石。<br>走出悲劇的輪迴，需要勇氣，也只需要勇氣。</strong></p><p><img src="/The-Tatami-Galaxy/%E8%AA%AA%E5%A5%BD%E4%BA%86%E5%91%A6-min.png" alt="說好了呦"></p><h2 id="其他"><a class="markdownIt-Anchor" href="#其他"></a> 其他</h2><p>上大學後好像養成了一個很不健康的壞習慣（或慣例？），就是期末考前一定會不小心補完一部動畫…。<br>這個端午連假也是過的很「充實」，開拓了兩間新餐廳、OOP 作業、重搞了 Web3 Provider Engine、為了看這部試用了百度雲盤的離線下載功能和各式各樣的下載加速器（不得不說對岸真的很狂，官方離線下載的教學文直接教你抓馬達加斯加的電影，完全視版權為無物；而且免費用戶下載 APP 就送 1T，綁信用卡再送 1T，要是 Google 也那麼大方，我的 Google Drive 就不會一直卡在 99% 跳警告了），這幾天的睡眠時間大概都是 3:00 - 12:00，今天更是 4:30 才上床，希望可以早點過上我所嚮往的健康生活。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/The-Tatami-Galaxy/title-min.png&quot; alt=&quot;標題&quot;&gt;&lt;/p&gt;
+&lt;p&gt;看完最大的心得大概是「不要宅在家裡，多出去認識一些人」這樣吧。&lt;br&gt;
+蠻幸運的在大學還沒結束前看了這部作品，也因此思考了很多人生。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="一些想法" scheme="https://blog.petingo.de/tags/%E4%B8%80%E4%BA%9B%E6%83%B3%E6%B3%95/"/>
+    
+      <category term="動畫心得" scheme="https://blog.petingo.de/tags/%E5%8B%95%E7%95%AB%E5%BF%83%E5%BE%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>想學程式，該學什麼語言</title>
+    <link href="https://blog.petingo.de/first-language-to-learn/"/>
+    <id>https://blog.petingo.de/first-language-to-learn/</id>
+    <published>2018-06-08T17:19:28.000Z</published>
+    <updated>2021-11-13T10:15:32.942Z</updated>
+    
+    <content type="html"><![CDATA[<p>前幾天看到一個<a href="ad.png">廣告</a>「想學程式語言，但完全不懂？從…開始吧！」<br>如果現在問我「想學程式，該學什麼語言」，我大概會不假思索地回答</p><h3>「英文」。</h3><a id="more"></a>不過我覺得在問「該學什麼語言」之前，應該要先回答「想學什麼樣的程式」；不同的程式語言本身就是因應不同應用場域而誕生的，是為了解決不同問題而被發明的。就好比今天你想鬆開一顆十字的螺絲釘，十字起跟一字起一樣都能辦到，但除非你有特殊的原因，你才會去用一字起，不然你轉一顆的時間，別人已經用十字起轉了好幾顆了。所以在決定要買一字起還是十字起前，應該要先確定你要轉開的是哪種螺絲釘。<p>回到英文。</p><p>前幾天在機場等著托運行李的時候，不經意的聽到這樣的對話：<br>「你知道全世界那個國家的外語水平最爛嗎？」<br>『嗯？』<br>「美國。」<br>「他們除了少數墨西哥邊境的人會講西班牙語，其他人基本上都只會講英文，不像歐洲至少都會三個語言。」</p><p>是啊，人家光會說英語就夠大吃四方了。還記得之前有個小學生寫 APP 寫到蘋果開發者大會上，無非就是靠著英文這樣一個巨大的優勢；不論是入門教學、技術文件、甚至是 Debugger 的 log，無一不需要英文；甚至把問題丟進 Google，stackoverflow 或是 github 上面的 issue 也幾乎都是英文。對比台灣的大學畢業生連 compiler 噴的 error 都看不懂，英語的重要性可見一斑。</p><p>這個世界上不知道有多少百分比的知識是用英文傳遞著。甚至我認為美國研發能力之所以強，一大原因是因為各領域的頂尖 paper 都是用英文寫的（當然美國錢多，吸引人才可能才是主要原因）。</p><p>當然也不是說英文不好就寫不了好程式，身在台灣會中文也是不錯，搭著支那 10 幾億人口的順風車，以及中共計畫性的將各式網路資源中文化，中文也越來越好用。</p><p>總之，英文真的重要。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;前幾天看到一個&lt;a href=&quot;ad.png&quot;&gt;廣告&lt;/a&gt;「想學程式語言，但完全不懂？從…開始吧！」&lt;br&gt;
+如果現在問我「想學程式，該學什麼語言」，我大概會不假思索地回答&lt;/p&gt;
+&lt;h3&gt;「英文」。&lt;/h3&gt;
+    
+    </summary>
+    
+    
+      <category term="一些想法" scheme="https://blog.petingo.de/tags/%E4%B8%80%E4%BA%9B%E6%83%B3%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>const 放在 member function 的後面</title>
+    <link href="https://blog.petingo.de/const-at-the-end-of-member-function/"/>
+    <id>https://blog.petingo.de/const-at-the-end-of-member-function/</id>
+    <published>2018-06-01T02:36:31.000Z</published>
+    <updated>2021-11-13T10:14:45.508Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="const-放前面與後面的意義"><a class="markdownIt-Anchor" href="#const-放前面與後面的意義"></a> const 放前面與後面的意義</h3><ul><li>放前面：代表回傳值是 const 的。</li></ul><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">const</span> <span class="keyword">int</span> <span class="title">foo</span><span class="params">()</span> </span>&#123; &#125;</span><br></pre></td></tr></table></figure><ul><li>放後面：僅出現在成員函數，代表<b>函數不會改變呼叫者的值</b>；目的是確保 const 的物件不會因為呼叫了某個 function 而變化。</li></ul><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">foo</span><span class="params">()</span> <span class="keyword">const</span> </span>&#123; &#125;</span><br></pre></td></tr></table></figure><p>光文字敘述可能不太清楚，下面來舉栗子。</p><a id="more"></a><h3 id="例子"><a class="markdownIt-Anchor" href="#例子"></a> 例子</h3><p>我宣告了一個 <code>class Dick</code> ，裡面只有 <code>int length</code> 代表的長度。<br>因為ㄐㄐ會喵喵叫跟啪啪啪，所以另外有兩個 function <code>meow(const Dick&amp; b)</code> 和 <code>fuck()</code>，其中 <code>meow</code> 裡面的 <code>const Dick&amp; b</code> 會呼叫 <code>fuck()</code>。</p><p>先來試試看如果讓 const 的 b 呼叫非 const 的 fuck 會怎樣：</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;bits/stdc++.h&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Dick</span> &#123;</span></span><br><span class="line">    <span class="keyword">int</span> length;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">public</span>:</span><br><span class="line">    Dick(<span class="keyword">int</span> length = <span class="number">30</span>) &#123;</span><br><span class="line">        <span class="keyword">this</span>-&gt;length = length;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="function"><span class="keyword">int</span> <span class="title">meow</span><span class="params">(<span class="keyword">const</span> Dick&amp; b)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> fuck() + b.fuck(); <span class="comment">// const 的 b call 了非 const 的 fuck()</span></span><br><span class="line">    &#125;</span><br><span class="line">    <span class="comment">// 非 const 的 fuck()</span></span><br><span class="line">    <span class="function"><span class="keyword">int</span> <span class="title">fuck</span><span class="params">()</span> </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> length + <span class="number">5</span>;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span> </span>&#123;</span><br><span class="line">    Dick myDick, hisDick;</span><br><span class="line">    <span class="built_in">cout</span> &lt;&lt; myDick.meow(hisDick) &lt;&lt; <span class="built_in">endl</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>編譯器馬上噴錯</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">error: passing &#39;const Dick&#39; as &#39;this&#39; argument discards qualifiers [-fpermissive]</span><br><span class="line">   int meow(const Dick&amp; b) &#123; return fuck() + b.fuck(); &#125;</span><br><span class="line">                                                    ^</span><br></pre></td></tr></table></figure><p>把 const 加上去：</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;bits/stdc++.h&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Dick</span> &#123;</span></span><br><span class="line">    <span class="keyword">int</span> length;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">public</span>:</span><br><span class="line">    Dick(<span class="keyword">int</span> length = <span class="number">30</span>) &#123;</span><br><span class="line">        <span class="keyword">this</span>-&gt;length = length;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="function"><span class="keyword">int</span> <span class="title">meow</span><span class="params">(<span class="keyword">const</span> Dick&amp; b)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> fuck() + b.fuck(); <span class="comment">// const 的 b call 了 const 的 fuck()</span></span><br><span class="line">    &#125;</span><br><span class="line">    <span class="comment">// const 的 fuck()</span></span><br><span class="line">    <span class="function"><span class="keyword">int</span> <span class="title">fuck</span><span class="params">()</span> <span class="keyword">const</span> </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> length + <span class="number">5</span>;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span> </span>&#123;</span><br><span class="line">    Dick myDick, hisDick;</span><br><span class="line">    <span class="built_in">cout</span> &lt;&lt; myDick.meow(hisDick) &lt;&lt; <span class="built_in">endl</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>恩，成功印出 70！</p><hr><p>再來試試看如果在一般的函數後面加上 const 會怎樣：</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">woof</span><span class="params">()</span> <span class="keyword">const</span> </span>&#123; <span class="keyword">return</span> <span class="number">55555</span>; &#125;</span><br></pre></td></tr></table></figure><p>編譯器噴錯：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">error: non-member function &#39;int woof()&#39; cannot have cv-qualifier</span><br><span class="line">int woof() const &#123; return 55555; &#125;</span><br><span class="line">           ^~~~~</span><br></pre></td></tr></table></figure><h3 id="寫在後面"><a class="markdownIt-Anchor" href="#寫在後面"></a> 寫在後面</h3><p>記得第一次遇到這個問題是為了要用 priority queue 而重載 <code>operator&lt;()</code>，必須讓它 const 否則會報錯。<br>至於後來幾次應該都是為了傳 const reference 的參數進 function（也就是範例的形式）。<br>說來慚愧，朋友今天問了我這個問題，雖然也查過、寫過一兩次，但一不小心還是忘了 Orz<br>stackoverflow 上的<a href="https://stackoverflow.com/questions/4059932/what-is-the-meaning-of-a-const-at-end-of-a-member-function" target="_blank" rel="noopener">這篇</a>講的還蠻清楚的，但相關的中文資源到底在供三小我也是看沒有，於是寫了這篇，希望我講的夠直白明瞭。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;const-放前面與後面的意義&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#const-放前面與後面的意義&quot;&gt;&lt;/a&gt; const 放前面與後面的意義&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;放前面：代表回傳值是 const 的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&quot;highlight c++&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;foo&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;()&lt;/span&gt; &lt;/span&gt;&amp;#123; &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;放後面：僅出現在成員函數，代表&lt;b&gt;函數不會改變呼叫者的值&lt;/b&gt;；目的是確保 const 的物件不會因為呼叫了某個 function 而變化。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&quot;highlight c++&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;foo&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;const&lt;/span&gt; &lt;/span&gt;&amp;#123; &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;光文字敘述可能不太清楚，下面來舉栗子。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="C++" scheme="https://blog.petingo.de/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>todoList.pop()</title>
+    <link href="https://blog.petingo.de/todoList-pop/"/>
+    <id>https://blog.petingo.de/todoList-pop/</id>
+    <published>2018-05-25T18:27:18.000Z</published>
+    <updated>2021-11-13T09:20:38.754Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="恩"><a class="markdownIt-Anchor" href="#恩"></a> 恩</h3><p>恩，再一次把架站的想法付諸。</p><p>原本以為應該是一下子就可以弄好的東西，但最後搞了差不多一個禮拜，目前應該算是接近完成，只剩下把自我介紹的部分補齊。</p><p>至於為什麼會弄那麼久，大概是因為很好玩吧？這整個禮拜幾乎是廢寢忘食的地步（望向美妙的 OOP 期末專案）。</p><a id="more"></a><h3 id="hexo-心得"><a class="markdownIt-Anchor" href="#hexo-心得"></a> hexo 心得</h3><p>這次用了 hexo + apollo theme，期間也是坡折不斷。</p><p>第一天被瀏覽器 cache 雷，為了網頁 logo 搞了一天。</p><p>後來的幾天則是為了搞出 gallery 的頁面頭痛；先是 flickr API，再來是排版。<br>星期三下午趁著空閒，翻了一本 html5 + css + jQuery 的書；本想現學現賣，自己用 jQuery 把排版刻出來，但礙於能力太過低落了只好放棄，最後採用了<a href="http://unitegallery.net/" target="_blank" rel="noopener"> Unite Gallary</a>，唯一的缺點大概是圖標 icon 解析度有點低，這部分先放進 Todo List 裡。</p><p>能把圖片排好以後，還有 hexo page layout 的設定，又是一番坡折，最後強行把建構相簿的 html + css + js 直接塞進自訂的 layout 檔裡面，姑且算是順利完成。</p><p>再來是把 tag 的功能加上去。<br>apollo 本身沒有 tag 和 category 的設定，但總覺得我會需要 tag 的功能，最後找到了這個<br><a href="https://github.com/angelen10/hexo-theme-apollo" target="_blank" rel="noopener">https://github.com/angelen10/hexo-theme-apollo</a><br>標籤雲的部分則是<br><a href="https://github.com/MikeCoder/hexo-tag-cloud" target="_blank" rel="noopener">https://github.com/MikeCoder/hexo-tag-cloud</a></p><p>接著花了一天把顏色調成喜歡的樣子、微調排版、寫好初步 About 的樣子，同時趁熱發了這篇心得。</p><h3 id="最後"><a class="markdownIt-Anchor" href="#最後"></a> 最後</h3><p>希望這次的熱度可以持續久一點（當然，前提是要有能寫的內容）。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;恩&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#恩&quot;&gt;&lt;/a&gt; 恩&lt;/h3&gt;
+&lt;p&gt;恩，再一次把架站的想法付諸。&lt;/p&gt;
+&lt;p&gt;原本以為應該是一下子就可以弄好的東西，但最後搞了差不多一個禮拜，目前應該算是接近完成，只剩下把自我介紹的部分補齊。&lt;/p&gt;
+&lt;p&gt;至於為什麼會弄那麼久，大概是因為很好玩吧？這整個禮拜幾乎是廢寢忘食的地步（望向美妙的 OOP 期末專案）。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="一些想法" scheme="https://blog.petingo.de/tags/%E4%B8%80%E4%BA%9B%E6%83%B3%E6%B3%95/"/>
+    
+      <category term="hexo" scheme="https://blog.petingo.de/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>關於 Blog 這件事</title>
+    <link href="https://blog.petingo.de/about-blog/"/>
+    <id>https://blog.petingo.de/about-blog/</id>
+    <published>2017-10-08T03:42:31.000Z</published>
+    <updated>2021-11-13T09:20:38.746Z</updated>
+    
+    <content type="html"><![CDATA[<p>從前就覺得應該花一點時間記錄下自己的生活。</p><p>最初會有這個想法是看了<a href="http://morris821028.github.io/" target="_blank" rel="noopener">學長 Morris 的部落格</a>，從 OJ 解題到生活的心得，總覺得從中獲得了一些什麼。但應該要以 queue 完成的 Todo List 最後總變成 stack，越來越多的事情被拖著壓在箱底，然後再也沒有拿出來過。</p><p>Blogger 比起那些早被夯實的願望，算是比較常探出頭的一個吧！總覺得這是一件很重要的小事。</p><p>當初把 Blogger 開起來時留下的關於我是這樣寫的：<br><strong>「希望這個世界因為我的存在而變得更美好一些。」</strong></p><a id="more"></a><p>後來在 Jserv 的影片上聽到一段話：我們總希望能夠改變世界。改變世界其實很簡單，你躺著不動，降低呼吸的頻率就能夠改變整個世界的碳循環；你再放個屁就又改變了氮循環。改變世界其實很簡單，但我們希望的遠不是這個樣子。</p><p>考大學的時候，選系什麼的，完全不是問題，志願表填了六個資工，外加科大的兩個電資學士班。唯一考慮過非資工的科系是東海建築，但這個想法大概只持續了一個週末便作罷。從以前到現在，除了搞軟體，還有其他兩個還沒放棄的夢想，一個是小說家，另一個是街頭藝人。三者並不衝突，但時間卻是。（這篇文章從開始下筆到完成隔了快一個月，現在似乎又多了一個互動藝術創作呢！）</p><p>感覺許多時間被浪費在毫無意義的事情上；當然也不能說是毫無意義，畢竟生命中的每件事總會有它的價值，但總覺得那些瑣事像是夢想路上的旁枝末節，懷疑岔路走多了，是否能在日落前抵達夢想的盡頭？</p><p>嘛，不過，不是每件事都應該追求最短路徑，人生嘛，到頭來都是過程，每個當下的自我都是過往經驗累積的人格，每一個夢想、每一段記憶都是這樣不斷改變的人格所創造，所謂的旁枝末節，也許才是康莊大道也說不定呢？</p><p>只是總覺得生命一直有個目標，生活卻經常在徬徨。一直以來，記事本置頂著短期內應該要完成的事情清單，但往往像府城的紅綠燈一樣「好喔我看到現在亮著紅色的燈，還有綠色的往左箭頭，但是我想要右轉，因為外星人不會戴帽子。」大概是這樣，然後繼續把那塊 stack 擱著。</p><p>總之呢，希望可以藉著隨筆的過程紀錄下每一段最近，以免記憶沙灘上的足跡被時間的浪抹平，同時整理一下永遠不會完成的 Todo List。</p><p>也許某天，會有素味平生的某人偶然點開這些文字，如果能從中獲得一些勉勵或想法（或是決定開始寫 Blogger 之類的），那我想應該也算夢想一點小小的實踐吧！</p><p>–</p><p>從 Blogger 備份</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;從前就覺得應該花一點時間記錄下自己的生活。&lt;/p&gt;
+&lt;p&gt;最初會有這個想法是看了&lt;a href=&quot;http://morris821028.github.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;學長 Morris 的部落格&lt;/a&gt;，從 OJ 解題到生活的心得，總覺得從中獲得了一些什麼。但應該要以 queue 完成的 Todo List 最後總變成 stack，越來越多的事情被拖著壓在箱底，然後再也沒有拿出來過。&lt;/p&gt;
+&lt;p&gt;Blogger 比起那些早被夯實的願望，算是比較常探出頭的一個吧！總覺得這是一件很重要的小事。&lt;/p&gt;
+&lt;p&gt;當初把 Blogger 開起來時留下的關於我是這樣寫的：&lt;br&gt;
+&lt;strong&gt;「希望這個世界因為我的存在而變得更美好一些。」&lt;/strong&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="一些想法" scheme="https://blog.petingo.de/tags/%E4%B8%80%E4%BA%9B%E6%83%B3%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Android 複製其他 APP 在 /data/data/ 中的資料</title>
+    <link href="https://blog.petingo.de/Android-copy-other-apps-data/"/>
+    <id>https://blog.petingo.de/Android-copy-other-apps-data/</id>
+    <published>2016-02-27T16:51:50.000Z</published>
+    <updated>2021-11-13T09:20:38.221Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="緣起"><a class="markdownIt-Anchor" href="#緣起"></a> 緣起</h3><p>最初會用到這玩意兒，是高中科展時為了要撈出 Line、Facebook messenger 的聊天訊息進行分析。當時為了這東西不知道搞了多久，最後還是靠隊友 Carry 才生出這份 code。</p><p>後來做的神魔關卡備份外掛也是靠這它才得以順利完成，再謝謝一次神奇的小夥伴。</p><h3 id="為什麼"><a class="markdownIt-Anchor" href="#為什麼"></a> 為什麼</h3><p>Android APP 在執行時會被限制在一個沙盒（sandbox）中，對於系統資源的存取會被隔離，大致如下圖所示；因此若要存取別的 APP 存放在 /data/data/ 中的資料，勢必得從其他地方下手。</p><div class="mxgraph" style="width:100%;border:1px solid transparent;margin:0 auto;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers lightbox&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;xml&quot;:&quot;&lt;mxfile userAgent=\&quot;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36\&quot; version=\&quot;8.6.8\&quot; editor=\&quot;www.draw.io\&quot; type=\&quot;google\&quot;&gt;&lt;diagram id=\&quot;df69082b-bde0-2ea9-3d78-96e4c49bb533\&quot; name=\&quot;Page-1\&quot;&gt;7Vttb6s2FP41kbZJtwKDDfnY9rbbtDvpStW0u0+TAw5hJTgDp0n262deHMA4gSRAuE1TqYFjY8x5HtvnOTgT43G5/TnCq8Xv1CXBBGjudmJ8ngBgTTX+PzHsMgMEembwIt/NTCXDi/8fyY35dd7ad0lcqcgoDZi/qhodGobEYRUbjiK6qVab06B61xX2SM3w4uCgbv3Td9kis9rAKuy/EN9biDvraJqVzLDz6kV0Heb3mwBjnn6y4iUWbeUPGi+wSzclk/E0MR4jSll2tNw+kiBxrXBbdt3zgdJ9vyMSsjYXQJP32dJ17nnLcmbuJ5C18IaDNRGPkHaU7YRz0scjSQPaxHjYLHxGXlbYSUo3nA3ctmDLgJ/p/HDuB8EjDWiUXmu4mNhzh9tjFtFXUipBjk1mc16Sd4BEjGwPPpW+9xWnIKFLwqIdr5JfAIzcvTn99rzaFGDqMLctykAKI84J5O3bLpzID3I/tvSp0bFPu/CQKXkIKDxkqDyk9eEh2OwhErr3ycjmZyENSdUjZOuzb7nzkuO/kuM7mJyFvG/fRLXkpCjL7kHc2lwgeZH3g64jhxyHl+HII+xYnToaJW+r6ChsEQkw89+q3VQBkN/hK/X5AxwcDqYpYZg9Xn5VebaQGjJk1iBYbSjzQa2hlA/7xz6PInadERy4l/yURmxBPRri4KmwPlRHlYovGUdyxiQl/xDGdvmChNeMclPR9hdKV5Ux2MydOuaXgjmVMJCnrLZgNjbUI5hiPq4MeBSwZMGgaScLnNG/ayoKPsUpMve8gm6vtkUhP/KSb4cu7/AdXq100d4sEmXCwnub3USYJV7xWZVV6VJdrPLpp7yy5SYc+F7ITx3OAcLtD8kc7fOw4j4vWPqumzJTNcNX2drFJA9h8ySvHZl3Op3jdVVo0QXmn3Hw5r9+4F3H27oq3vWw52tEHRLHdah+4PX++JVX0fhH/1GF5bsFDVVBMxSD1FZgJq/h3WBmNgdiF4X/kNiuqQr/bTAzEOrGpaY2qvBfbxHdDh3/m/qo4n8dNbtoOAFwNNoXaB4N90WlFoAMIwHkIXG2BIAycQaUALpVJ8VNagATdaQBGhvqE01bMea70gCzRAOAj5gQmGBUGmDaE+YfGuAQ3lfVAIJsp2oAXbspDWAaI9IAovt9aYC57RBH+QpgZkMTduRSaEvj4LoaQPhwTBoATlssDcNpANDiNclINIDo2VENICqNRgPIQ+JsDYBk4gyoAYBZJ8VNagBkSiCcqwEaG+oTTVVqpBwPVqO41jEiUsWI8S5mZPl3TCI+bR4MDG8+gkRtUkPDRZCqzNCHYugT7+sqBquGdzvFcFtvDRCognZdxaDK5JwSuWUgiJ1W4KJldaAtFVI+1bDPXH0tq6GhPldfVTamS6UHkz+V0kPpp5uhAOShMK0PBaiSMVYfY0HcqOTTL3645guQ9huJeOz4fuckUwok91mNhjlJh33goMpiPLuY4eLr+GaRE2FK3m6iGYJIMQ7mc5BmPEYGWG1fWNscCehl5KhSJArEDqf23z9itdd410VMlbF55jKL///pFuBAGmyEYzg0VHs3nl3ydjNooDGhcdqWZifAcexnWXEcsbr5aLS8z2+W0p0ikaVOcRUuv3z7s/iBxtFkqBq56wTr+z0MJ2+ZhdL0i4YL1o3Ttsh8z4QCLQiV7VQbDaPkOeRsRsmipE9G1VMt75VRbX6icd2Egm5VF6/zGSVtABiUUaclgr5nRpkfjLqcUfy0+KljVr34Oanx9D8=&lt;/diagram&gt;&lt;/mxfile&gt;&quot;}"></div><script type="text/javascript" src="https://www.draw.io/js/viewer.min.js"></script><a id="more"></a><h3 id="所以要怎麼做"><a class="markdownIt-Anchor" href="#所以要怎麼做"></a> 所以要怎麼做？</h3><p><s>複製貼上就可以了。</s><br>基本上就是先拿 Root 權限，然後執行 linux 的複製指令</p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">copy</span><span class="params">(string resorsePath, string targetPath)</span></span>&#123;</span><br><span class="line">    Process suProcess = <span class="keyword">null</span>;</span><br><span class="line">    <span class="keyword">try</span> &#123;</span><br><span class="line">        suProcess = Runtime.getRuntime().exec(<span class="string">"su"</span>);</span><br><span class="line">        DataOutputStream os = <span class="keyword">new</span> DataOutputStream(suProcess.getOutputStream());</span><br><span class="line">        os.writeBytes(<span class="string">"mkdir -p "</span> + targetPath + <span class="string">"\n"</span>);</span><br><span class="line">        os.writeBytes(<span class="string">"cp -r "</span> + resorsePath + <span class="string">" "</span> + targetPath + <span class="string">"\n"</span>);</span><br><span class="line">        os.writeBytes(<span class="string">"exit\n"</span>);</span><br><span class="line">        os.flush();</span><br><span class="line"></span><br><span class="line">    &#125; <span class="keyword">catch</span> (IOException e) &#123;</span><br><span class="line">        e.printStackTrace();</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>收工！</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;緣起&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#緣起&quot;&gt;&lt;/a&gt; 緣起&lt;/h3&gt;
+&lt;p&gt;最初會用到這玩意兒，是高中科展時為了要撈出 Line、Facebook messenger 的聊天訊息進行分析。當時為了這東西不知道搞了多久，最後還是靠隊友 Carry 才生出這份 code。&lt;/p&gt;
+&lt;p&gt;後來做的神魔關卡備份外掛也是靠這它才得以順利完成，再謝謝一次神奇的小夥伴。&lt;/p&gt;
+&lt;h3 id=&quot;為什麼&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#為什麼&quot;&gt;&lt;/a&gt; 為什麼&lt;/h3&gt;
+&lt;p&gt;Android APP 在執行時會被限制在一個沙盒（sandbox）中，對於系統資源的存取會被隔離，大致如下圖所示；因此若要存取別的 APP 存放在 /data/data/ 中的資料，勢必得從其他地方下手。&lt;/p&gt;
+&lt;div class=&quot;mxgraph&quot; style=&quot;width:100%;border:1px solid transparent;margin:0 auto;&quot; data-mxgraph=&quot;{&amp;quot;highlight&amp;quot;:&amp;quot;#0000ff&amp;quot;,&amp;quot;nav&amp;quot;:true,&amp;quot;resize&amp;quot;:true,&amp;quot;toolbar&amp;quot;:&amp;quot;zoom layers lightbox&amp;quot;,&amp;quot;edit&amp;quot;:&amp;quot;_blank&amp;quot;,&amp;quot;xml&amp;quot;:&amp;quot;&amp;lt;mxfile userAgent=\&amp;quot;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36\&amp;quot; version=\&amp;quot;8.6.8\&amp;quot; editor=\&amp;quot;www.draw.io\&amp;quot; type=\&amp;quot;google\&amp;quot;&amp;gt;&amp;lt;diagram id=\&amp;quot;df69082b-bde0-2ea9-3d78-96e4c49bb533\&amp;quot; name=\&amp;quot;Page-1\&amp;quot;&amp;gt;7Vttb6s2FP41kbZJtwKDDfnY9rbbtDvpStW0u0+TAw5hJTgDp0n262deHMA4gSRAuE1TqYFjY8x5HtvnOTgT43G5/TnCq8Xv1CXBBGjudmJ8ngBgTTX+PzHsMgMEembwIt/NTCXDi/8fyY35dd7ad0lcqcgoDZi/qhodGobEYRUbjiK6qVab06B61xX2SM3w4uCgbv3Td9kis9rAKuy/EN9biDvraJqVzLDz6kV0Heb3mwBjnn6y4iUWbeUPGi+wSzclk/E0MR4jSll2tNw+kiBxrXBbdt3zgdJ9vyMSsjYXQJP32dJ17nnLcmbuJ5C18IaDNRGPkHaU7YRz0scjSQPaxHjYLHxGXlbYSUo3nA3ctmDLgJ/p/HDuB8EjDWiUXmu4mNhzh9tjFtFXUipBjk1mc16Sd4BEjGwPPpW+9xWnIKFLwqIdr5JfAIzcvTn99rzaFGDqMLctykAKI84J5O3bLpzID3I/tvSp0bFPu/CQKXkIKDxkqDyk9eEh2OwhErr3ycjmZyENSdUjZOuzb7nzkuO/kuM7mJyFvG/fRLXkpCjL7kHc2lwgeZH3g64jhxyHl+HII+xYnToaJW+r6ChsEQkw89+q3VQBkN/hK/X5AxwcDqYpYZg9Xn5VebaQGjJk1iBYbSjzQa2hlA/7xz6PInadERy4l/yURmxBPRri4KmwPlRHlYovGUdyxiQl/xDGdvmChNeMclPR9hdKV5Ux2MydOuaXgjmVMJCnrLZgNjbUI5hiPq4MeBSwZMGgaScLnNG/ayoKPsUpMve8gm6vtkUhP/KSb4cu7/AdXq100d4sEmXCwnub3USYJV7xWZVV6VJdrPLpp7yy5SYc+F7ITx3OAcLtD8kc7fOw4j4vWPqumzJTNcNX2drFJA9h8ySvHZl3Op3jdVVo0QXmn3Hw5r9+4F3H27oq3vWw52tEHRLHdah+4PX++JVX0fhH/1GF5bsFDVVBMxSD1FZgJq/h3WBmNgdiF4X/kNiuqQr/bTAzEOrGpaY2qvBfbxHdDh3/m/qo4n8dNbtoOAFwNNoXaB4N90WlFoAMIwHkIXG2BIAycQaUALpVJ8VNagATdaQBGhvqE01bMea70gCzRAOAj5gQmGBUGmDaE+YfGuAQ3lfVAIJsp2oAXbspDWAaI9IAovt9aYC57RBH+QpgZkMTduRSaEvj4LoaQPhwTBoATlssDcNpANDiNclINIDo2VENICqNRgPIQ+JsDYBk4gyoAYBZJ8VNagBkSiCcqwEaG+oTTVVqpBwPVqO41jEiUsWI8S5mZPl3TCI+bR4MDG8+gkRtUkPDRZCqzNCHYugT7+sqBquGdzvFcFtvDRCognZdxaDK5JwSuWUgiJ1W4KJldaAtFVI+1bDPXH0tq6GhPldfVTamS6UHkz+V0kPpp5uhAOShMK0PBaiSMVYfY0HcqOTTL3645guQ9huJeOz4fuckUwok91mNhjlJh33goMpiPLuY4eLr+GaRE2FK3m6iGYJIMQ7mc5BmPEYGWG1fWNscCehl5KhSJArEDqf23z9itdd410VMlbF55jKL///pFuBAGmyEYzg0VHs3nl3ydjNooDGhcdqWZifAcexnWXEcsbr5aLS8z2+W0p0ikaVOcRUuv3z7s/iBxtFkqBq56wTr+z0MJ2+ZhdL0i4YL1o3Ttsh8z4QCLQiV7VQbDaPkOeRsRsmipE9G1VMt75VRbX6icd2Egm5VF6/zGSVtABiUUaclgr5nRpkfjLqcUfy0+KljVr34Oanx9D8=&amp;lt;/diagram&amp;gt;&amp;lt;/mxfile&amp;gt;&amp;quot;}&quot;&gt;&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;https://www.draw.io/js/viewer.min.js&quot;&gt;&lt;/script&gt;
+    
+    </summary>
+    
+    
+      <category term="Android" scheme="https://blog.petingo.de/tags/Android/"/>
+    
+  </entry>
+  
+</feed>
